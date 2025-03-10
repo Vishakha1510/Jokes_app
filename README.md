@@ -1,16 +1,101 @@
-# jokes_app
+# **🌟 RANDOM JOKES GENERATOR**
 
-A new Flutter project.
+**Random Jokes Generator** is a fun and interactive Flutter app that fetches jokes from an API and allows users to save, like, and share their favorite jokes. Built with Flutter and Provider for state management, this app also utilizes Shared Preferences to store liked jokes locally.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **💡 Random Jokes Display**  
+  Get a fresh joke each time you refresh the app.
+  
+- **🌐 API Integration**  
+  Fetch jokes from a reliable API.
+  
+- **📃 Save & Like Jokes**  
+  Store your favorite jokes using Shared Preferences.
+  
+- **🎬 View Liked Jokes**  
+  Access and manage your liked jokes in a separate screen.
+  
+- **🔍 Remove Liked Jokes**  
+  Delete saved jokes from local storage easily.
+  
+- **📢 Share Jokes**  
+  Share jokes on social media and messaging apps.
+  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎥 Screens
+
+- **Splash Screen**  
+- **Home Page** (Displays random jokes)  
+- **Liked Jokes Page** (Shows saved jokes)  
+
+---
+
+## 🛠 Tech Stack
+
+- **Flutter** - Cross-platform app development  
+- **Dart** - Programming language  
+- **Provider** - State management  
+- **Shared Preferences** - Local storage  
+- **REST API** - Fetching jokes  
+
+---
+
+## 🔧 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/random-jokes-generator.git
+   cd random-jokes-generator
+   ```
+2. **Install dependencies**
+   ```bash
+   flutter pub get
+   ```
+3. **Run the app**
+   ```bash
+   flutter run
+   ```
+
+---
+
+## 🎨 UI Previews
+
+![Splash Screen](screenshots/1.jpg)
+![Splash Screen](screenshots/2.jpg)
+![Splash Screen](screenshots/3.jpg)
+![Splash Screen](screenshots/4.jpg)
+![Splash Screen](screenshots/5.jpg)
+![Splash Screen](screenshots/6.jpg)
+
+
+---
+
+## 📌 Future Enhancements
+
+- 🛹 Category-wise joke filtering  
+- 🌐 Offline joke saving  
+- ⚖️ Multiple joke APIs integration  
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+---
+
+## 📚 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🌟 Show Your Support
+
+If you like this project, please ⭐ the repository!
+
